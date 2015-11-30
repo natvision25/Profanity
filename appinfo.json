@@ -1,0 +1,32 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "nate72001@yahoo.com",
+    "longName": "Profanity",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/profanityalpite.png",
+                "menuIcon": true,
+                "name": "MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "fonts/MLBBLOCK.TTF",
+                "name": "BLOCK_32",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Profanity",
+    "uuid": "b5d27f05-b12a-41d6-98fd-d095b655d342",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
